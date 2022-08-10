@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalTestJava</string>
+    <string name="business_act">Business Act</string>
+    <string name="name">Name</string>
+    <string name="textview5">TextView</string>
+    <string name="client_act">Client Act</string>
+    <string name="button">Button</string>
+</resources>
